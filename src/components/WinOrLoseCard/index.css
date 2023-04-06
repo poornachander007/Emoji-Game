@@ -1,0 +1,37 @@
+/* Write your code here. */
+.content_container {
+  padding: 30px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.text_container {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.wonOrLoseHeading {
+}
+
+.scoreOrBestScore {
+  font-size: 20px;
+}
+
+.displayScore {
+  font-size: 30px;
+}
+
+button {
+  background-color: rgb(241, 241, 20);
+  font-size: 23px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.img_container {
+  padding: 50px;
+}

@@ -1,0 +1,32 @@
+/* Write your code here. */
+.my_nav_container {
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.logo_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app_logo {
+  padding: 5px;
+}
+
+.logo_name {
+}
+
+.score_container {
+  display: flex;
+}
+
+.option {
+  font-size: 28px;
+  margin-right: 50px;
+}

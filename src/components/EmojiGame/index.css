@@ -1,0 +1,18 @@
+/* Write your code here. */
+.page_container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.content_container {
+  padding: 80px;
+  background-image: linear-gradient(#9796f0, #fbc7d4);
+  flex-grow: 1;
+}
+
+.ul_emoji_container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
